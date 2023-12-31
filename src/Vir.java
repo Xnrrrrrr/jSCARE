@@ -98,3 +98,5 @@ public class Vir extends java.awt.Dialog {
         };
     }
 }
+
+//
